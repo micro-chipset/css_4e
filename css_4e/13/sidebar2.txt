@@ -1,4 +1,4 @@
-<h2>Боковая панель 2 </h2>
+<h2>Р‘РѕРєРѕРІР°СЏ РїР°РЅРµР»СЊ 2</h2>
   <ul>
     <li>Aenean orci ante</li>
     <li>Venenatis non adipiscing vita</li>
